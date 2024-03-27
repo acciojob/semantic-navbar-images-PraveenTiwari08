@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+a{
+	text-decoration: none;
+}
+
+ul{
+	list-style-type: none;
+	display: flex;
+	justify-content:space-evenly;
+}
+
+li:hover{
+	color:white;
+	background-color:orange;
+}
+
+h3{
+	text-align:center;
+}
